@@ -1,2 +1,0 @@
-# moneymanager
-an application 
